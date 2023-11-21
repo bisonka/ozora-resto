@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(214, 53, 53);
+}
+
+#wrapper {
+    height: 2000px;
+    max-width: 900px;
+    width: 100%;
+    background-image: url(img/valentine-layout.png);
+    margin: 0 auto;
+    position: relative;
+}
+
