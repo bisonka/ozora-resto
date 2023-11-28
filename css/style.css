@@ -5,15 +5,48 @@
 }
 
 body {
-    background-color: rgb(214, 53, 53);
+    background-color: rgb(0, 0, 0);
 }
 
 #wrapper {
     height: 2000px;
     max-width: 900px;
     width: 100%;
-    background-image: url(img/valentine-layout.png);
+    background-image: url(../img/lope_.png);
     margin: 0 auto;
     position: relative;
 }
 
+.lope_ {
+    position: relative;
+}
+
+.Ozora-Resto {
+    position: relative;
+    top: 10px;
+    left: 175px;
+}
+
+.vday {
+    position: relative;
+    top: 100px;
+    right: 110px;
+}
+
+.menu {
+    position: relative;
+    top: 127px;
+    left: 385px;
+}
+
+.ramen {
+    position: relative;
+    top: 135px;
+    left: 407px;
+}
+
+.hitsumabushi {
+    position: relative;
+    top: 150px;
+    left: 40px;
+}
