@@ -30,13 +30,13 @@ body {
 .vday {
     position: relative;
     top: 100px;
-    right: 110px;
+    right: 130px;
 }
 
 .menu {
     position: relative;
     top: 127px;
-    left: 385px;
+    left: 375px;
 }
 
 .ramen {
@@ -49,4 +49,82 @@ body {
     position: relative;
     top: 150px;
     left: 40px;
+}
+
+.kare {
+    position: relative;
+    top: 150px;
+    left: 230px;
+}
+
+.menu-middle {
+    position: relative;
+    top: 110px;
+    left: 240px;
+}
+
+.button-h {
+    position: relative;
+    top: -560px;
+    left: 65px;
+}
+
+.icon-h {
+    position: relative;
+    top: 430px;
+    right: 480px;
+}
+
+.desc-h {
+    position: relative;
+    top: 165px;
+    left: 240px;
+}
+
+.button-k {
+    position: relative;
+    top: -660px;
+    left: 330px;
+}
+
+.icon-k {
+    position: relative;
+    top: 435px;
+    left: 15px;
+}
+
+.desc-k {
+    position: relative;
+    top: 130px;
+    left: 10px;
+}
+
+.button-r {
+    position: relative;
+    top: -760px;
+    left: 590px;
+}
+
+.icon-r {
+    position: relative;
+    top: 405px;
+    right: 650px;
+}
+
+.desc-r {
+    position: relative;
+    top: 190px;
+    left: 240px;
+}
+
+.kupon {
+    position: relative;
+    top: 40px;
+    left: 140px;
+}
+
+.akses {
+    position: relative;
+    top: 100px;
+    left: 25px;
 }
